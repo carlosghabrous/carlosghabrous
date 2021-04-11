@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## Hi, I'm Carlos!
+All-round developer based in Geneva, Switzerland
 <!--
 **carlosghabrous/carlosghabrous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
