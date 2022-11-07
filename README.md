@@ -1,5 +1,5 @@
 # Hi, I'm Carlos!
-All-rounder software engineer based in Geneva, Switzerland
+All-rounder software engineer based in Valencia, Spain
 
 * During the last five years, I have designed libraries and services in Python, and written software in C for an embedded platform
 * Before that, I wrote software for a medium-scale distributed system (Java and C++)
